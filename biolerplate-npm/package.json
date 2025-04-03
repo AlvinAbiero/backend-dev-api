@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Alvin Abiero",
+  "description": "A project to learn api development with node.js",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -11,5 +12,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/AlvinAbiero/backend-dev-api.git"
-  }
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "freecodecamp",
+    "development"
+  ],
+  "license": "MIT",
+  "version": "1.2.0"
 }
